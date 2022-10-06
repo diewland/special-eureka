@@ -7,7 +7,7 @@ OUTPUT_DIR = os.path.basename(__file__).split('.')[0]
 
 NAME = "Doggo 🦮"
 DESC = "Beware of Doggo 🦮"
-IMG = "https://diewland.github.io/special-eureka/doggo.png"
+IMG = "https://diewland.github.io/special-eureka/assets/doggo.png"
 ATTRS = [
     # standard
     #{
